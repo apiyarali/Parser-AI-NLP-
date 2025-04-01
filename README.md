@@ -72,7 +72,7 @@ holmes
 ### Grammar Rules
 The grammar follows a context-free grammar format, where each rule defines how symbols can be rewritten. For example:
 
-**`S -> NP VP`**: A sentence **`(S) consists of a noun phrase **`(NP)`** followed by a verb phrase **`(VP)`**.
+**`S -> NP VP`**: A sentence **`(S)`** consists of a noun phrase **`(NP)`** followed by a verb phrase **`(VP)`**.
 
 **`NP -> N | Det N`**: A noun phrase **`(NP)`** can be a single noun **`(N)`** or a determiner **`(Det)`** followed by a noun **`(N)`**.
 
