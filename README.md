@@ -85,7 +85,7 @@ These rules allow the parser to understand simple English sentences and extract 
 
 ### Customization
 - **Grammar Modification:** You can modify the context-free grammar rules in the NONTERMINALS variable to handle more complex sentences or improve parsing accuracy.
-- 
+  
 - **Sentence Files:** You can add or remove sentences in the sentences/ directory to test the parser on different types of input.
 
 ## Notes
